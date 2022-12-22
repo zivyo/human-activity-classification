@@ -1,2 +1,2 @@
 # human-activity-classification
-assignment 2 of practical deep learning course
+practical deep learning course assignment 2
