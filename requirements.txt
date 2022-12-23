@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+notebook
+seaborn
+pandas_profiling 
+ipywidgets
+torch
+torchsummary
+sklearn
