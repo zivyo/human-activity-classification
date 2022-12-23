@@ -8,3 +8,4 @@ ipywidgets
 torch
 torchsummary
 sklearn
+neptune-client
