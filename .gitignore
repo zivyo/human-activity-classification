@@ -1,4 +1,5 @@
 assignment2.docx
 protocol
 HARVenv
-subjects_data.pickle
+*.pickle
+pretraining_preprocessing.ipynb
