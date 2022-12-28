@@ -3,3 +3,4 @@ protocol
 HARVenv
 *.pickle
 pretraining_preprocessing.ipynb
+.neptune/*
